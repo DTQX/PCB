@@ -1,0 +1,4 @@
+Change component parameters: Designator = "C2"; Footprint = "CAPC1608X09N"; UniqueID = "\XQIFCLXX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Room: Name=Sheet1
